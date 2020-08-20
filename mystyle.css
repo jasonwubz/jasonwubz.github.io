@@ -1,0 +1,25 @@
+body {
+	background-color: #2C2C2C;
+	color: #CFCFCF;
+	font-size: 20px;
+}
+
+a {
+	color: #85C2C5;
+}
+
+.center {
+	margin: auto;
+	width: 650px;
+}
+
+h1 {
+	color: #65B68D;
+	text-align: center;
+}
+
+#myProfile {
+	width: 350px;
+	display: block;
+	margin: auto;
+}
